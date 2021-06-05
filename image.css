@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+
+.note {
+    background-color: white;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin: 10;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#back {
+    background-color: black;
+    float: right;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+#status {
+    font-size: 22px;
+}
